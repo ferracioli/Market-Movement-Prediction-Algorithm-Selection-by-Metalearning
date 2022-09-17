@@ -7,4 +7,4 @@ The prediction of market price movement is an essential tool for decision-making
 All datasets used in this experiment are public, enabling the repetition of the tests.
 
 ## Important Notes
-In any case of doubt about how the code works, please contact avalentim98@usp.br, ferracioli gabriel@usp.br or open an issue in this repository.
+In any case of doubt about how the code works, please contact avalentim98@usp.br, ferracioligabriel@usp.br or open an issue in this repository.
